@@ -10,4 +10,4 @@ I then used Macro to copy and specialpasted only the number in V2. It worked.
 A button is needed to confirm the logging of the data. This is due to my VBA code requires an 'enter' action performed by the user. 
 I used Macro to record my action. 
 
-See V3 for final demonstration. 
+See V3 for final demonstration. Use the roller to change the number, and click button to log data in data log. 
